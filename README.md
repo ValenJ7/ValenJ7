@@ -24,8 +24,7 @@
 ---
 
 ## 🌱 Actualmente aprendiendo  
-- 🔥 Optimización de Frontend (rendimiento y escalabilidad).  
-- 📱 React Native para desarrollo mobile.  
+- 🔥 Optimización de Frontend (rendimiento y escalabilidad).    
 - ⚡ Arquitecturas modernas con Laravel + React.  
 
 ---
