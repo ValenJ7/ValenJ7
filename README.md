@@ -1,7 +1,7 @@
 # ¡Hola! Soy Valentin Juarez 👋  
 
 💻 **Desarrollador de Software** enfocado en **Frontend** (aunque también me defiendo en el Backend).  
-🎓 Estudiante en el último año de la carrera de Desarrollo de Software en el Instituto Superior Villa del Rosario.  
+🎓 Recibido de la carrera de Desarrollo de Software en el Instituto Superior Villa del Rosario.  
 🚀 Apasionado por crear proyectos que combinen **funcionalidad + buen diseño**.  
 
 ---
